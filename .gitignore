@@ -1,0 +1,11 @@
+/.idea
+/.venv
+/main.py
+/gaussian_average.py
+/gau_avg_v2.py
+/create_input_frame.py
+/data
+/output_gaussian
+/output
+/outputs
+/images
